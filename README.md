@@ -66,7 +66,8 @@ Os dados foram obtidos a partir da [https://www.kaggle.com/datasets/mittvin/worl
   - Realizar análises setoriais para insights mais granulares.
 
 
-## Autor: Genésio Moreira Coutinho | Graduado: Bacharelado em Sistemas de Informação | Pós Graduando:  MBA em Gestão da Qualidade em Tecnologia da Informação | 1x Azure - AZ900
+## Autor: Genésio Moreira Coutinho 
+Graduado: Bacharelado em Sistemas de Informação | Pós Graduando:  MBA em Gestão da Qualidade em Tecnologia da Informação | 1x Azure - AZ900
 Date Analyst | Cloud Infrastructure | Azure | Analista Cloud | Analista Dados | Infraestrutura Cloud | Python
 Linkedin: https://www.linkedin.com/in/genesio-coutinho-554733124/
 Kaggle:https://www.kaggle.com/genesiomoreira
