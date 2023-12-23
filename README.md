@@ -4,7 +4,7 @@
 
 ## Coleta de Dados
 ### Fonte dos Dados
-Os dados foram obtidos a partir da [inserir fonte da sua escolha].
+Os dados foram obtidos a partir da [https://www.kaggle.com/datasets/mittvin/world-economic-indicators-1960-2022-dataset].
 
 ### Pré-processamento
 1. Remoção de dados ausentes.
