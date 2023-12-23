@@ -55,10 +55,12 @@ Os dados foram obtidos a partir da [https://www.kaggle.com/datasets/mittvin/worl
   - Explorar modelos mais avançados, como redes neurais, para previsões mais complexas.
   - Realizar análises setoriais para insights mais granulares.
 
-Objetivos:
+#**Objetivos:**
 
-Identificar Correlações: Analisar as correlações entre as variáveis fornecidas (Remessas Pessoais Recebidas, Desemprego, PIB e Crescimento do PIB).
+    - Identificar Correlações: Analisar as correlações entre as variáveis fornecidas (Remessas Pessoais Recebidas, Desemprego, PIB e 
+      Crescimento do PIB).
 
-Previsão do Desemprego: Desenvolver um modelo de aprendizado de máquina para prever a taxa de desemprego com base nas outras variáveis. Variavel resposta 'Total Unemployment (% of total labor force'
+    - Previsão do Desemprego: Desenvolver um modelo de aprendizado de máquina para prever a taxa de desemprego com base nas outras 
+      variáveis. Variavel resposta 'Total Unemployment (% of total labor force'
 
-Comparação de Países: Comparar o desempenho econômico de diferentes países ao longo dos anos.
+    - Comparação de Países: Comparar o desempenho econômico de diferentes países ao longo dos anos.
