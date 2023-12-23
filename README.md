@@ -8,7 +8,7 @@
       Crescimento do PIB).
 
     - Previsão do Desemprego: Desenvolver um modelo de aprendizado de máquina para prever a taxa de desemprego com base nas outras 
-      variáveis. Variavel resposta 'Total Unemployment (% of total labor force'
+      variáveis. Variavel resposta 'Total Unemployment (% of total labor force)'
 
     - Comparação de Países: Comparar o desempenho econômico de diferentes países ao longo dos anos.
 
